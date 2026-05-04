@@ -10,7 +10,7 @@ A Computer Science Graduate💻.
 
 I like learning new things to keep up with new technologies and I love creating stuff.
 
-## All of my projects are available at:  
+All of my projects are available at:  
 👨‍💻 https://github.com/Ayaju21?tab=repositories  
 
 ## You can reach me at:  
