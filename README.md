@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=22&center=true&vCenter=true&width=500&lines=A+Passionate+Computer+Science+Graduate;FinTech+and+Digital+Payments+Enthusiast💻" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=22&center=true&vCenter=true&width=500&lines=A+Computer+Science+Graduate💻" />
   </a>
 </p>
 
-                                                        A Computer Science Graduate💻.
+                                                      
 
                       
 
