@@ -10,18 +10,18 @@ A Computer Science Graduate💻.
 
 I like learning new things to keep up with new technologies and I love creating stuff.
 
-All of my projects are available at:  
+## All of my projects are available at:  
 👨‍💻 https://github.com/Ayaju21?tab=repositories  
 
-You can reach me at:  
+## You can reach me at:  
 📫 ayajumah55@gmail.com  
 
-Connect with me:  
+## Connect with me:  
 <a href="https://www.linkedin.com/in/aya-jumah-ba8841322/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a> 
 
-🛠️ Languages and Tools:  
+ 
 ## 🛠️ Languages and Tools
 <p align="left">
 
