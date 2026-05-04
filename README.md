@@ -13,7 +13,7 @@
 #### All of my projects are available at:  
 👨‍💻 https://github.com/Ayaju21?tab=repositories  
 
-####  You can reach me at:  
+####  How to reach me :  
 📫 ayajumah55@gmail.com  
 
 ####  Connect with me:  
