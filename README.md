@@ -22,8 +22,39 @@ Connect with me:
 </a> 
 
 🛠️ Languages and Tools:  
+## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,php,mysql,mongodb,androidstudio,git,linux" />
-</p>
 
----
+<a href="https://www.java.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+</a>
+
+<a href="https://www.php.net" target="_blank">
+  <img src="https://skillicons.dev/icons?i=php" height="40"/>
+</a>
+
+<a href="https://www.mysql.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+</a>
+
+<a href="https://developer.android.com/studio" target="_blank">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
+</a>
+
+<a href="https://git-scm.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+</a>
+
+<a href="https://www.linux.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+</a>
+
+</p>
