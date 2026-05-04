@@ -1,37 +1,25 @@
 <h1 align="center">Hi 👋, I'm Aya</h1>
-<h3 align="center">A Computer Science Graduate💻</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=22&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;FinTech+%26+Digital+Payments+Enthusiast;Android+Developer;Always+Learning+New+Technologies" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=22&center=true&vCenter=true&width=500&lines=A+Passionate+Computer+Science+Graduate;FinTech+and+Digital+Payments+Enthusiast💻" />
   </a>
 </p>
 
----
+A Computer Science Graduate💻.
 
-## 👩‍💻 About Me
-- 🎓 Computer Science Graduate from Birzeit University   
-- 🚀 Always learning and building new things  
+I like learning new things to keep up with new technologies and I love creating stuff.
 
-
----
-
-## 📫 Contact Me
-- 📧 Email: ayajumah55@gmail.com  
-- 💼 LinkedIn: *(www.linkedin.com/in/aya-jumah-ba8841322)*  
-
----
-
-## 🔗All of my projects are available at:
+All of my projects are available at:  
 👨‍💻 https://github.com/Ayaju21?tab=repositories  
 
----
+You can reach me at:  
+📫 ayajumah55@gmail.com  
 
-## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,php,mysql,mongodb,androidstudio,git,linux" />
-</p>
+Connect with me:  
+<a href="https://www.linkedin.com/in/aya-jumah-ba8841322/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a> 
 
----
-
-⭐ Keep learning, keep building!
+Languages and Tools:  
+android c git java linux mysql mongodb
