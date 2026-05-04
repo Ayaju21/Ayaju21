@@ -21,5 +21,9 @@ Connect with me:
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a> 
 
-Languages and Tools:  
-android c git java linux mysql mongodb
+🛠️ Languages and Tools:  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,php,mysql,mongodb,androidstudio,git,linux" />
+</p>
+
+---
